@@ -38,6 +38,8 @@ python emb_learning.py
 python main_wiki.py
 ```
 
+## Tips
+Drop_last will influence the number of data windows in the end. To achieve a fair comparison, we didn't use drop_last for testing. 
 
 ## Acknowledgement
 Our implementation adapts [Time-Series-Library](https://github.com/thuml/Time-Series-Library) as the code base and have extensively modified it to our purposes. We thank the authors for sharing their implementations and related resources.
