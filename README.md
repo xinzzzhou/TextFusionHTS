@@ -33,7 +33,7 @@ pip3 install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --
 ```
 python emb_learning.py
 ```
-5. Train and test the model. We provide two main.py files for demonstration purpose under the root folder. 
+5. Train and test the model. We provide two main.py files for demonstration purposes under the root folder. 
 ```
 python main_wiki.py
 ```
@@ -42,4 +42,5 @@ python main_wiki.py
 Drop_last will influence the number of data windows in the end. To achieve a fair comparison, we didn't use drop_last for testing. 
 
 ## Acknowledgement
-Our implementation adapts [Time-Series-Library](https://github.com/thuml/Time-Series-Library) as the code base and have extensively modified it to our purposes. We thank the authors for sharing their implementations and related resources.
+1. We gratefully acknowledge the support of Google for providing a travel grant, which enabled attendance at NeurIPS 2024. This funding has significantly contributed to our research efforts and facilitated essential academic exchange. We sincerely appreciate Google's generous support.
+2. Our implementation adapts [Time-Series-Library](https://github.com/thuml/Time-Series-Library) as the code base and has extensively modified it to our purposes. We thank the authors for sharing their implementations and related resources.
