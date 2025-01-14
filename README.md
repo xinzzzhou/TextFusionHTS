@@ -1,7 +1,7 @@
 # Unveiling the Potential of Text in High-Dimensional Time Series Forecasting
 
 This paper was accepted by NeurIPS 2024 TSALM Workshop. We provide the open-source code here.
-This is the official repository for "Unveiling the Potential of Text in High-Dimensional Time Series Forecasting" ***(Accepted by NeurIPS-24 TSALM Workshop)*** [[Paper]](https://openreview.net/pdf?id=6666666666) <br>
+This is the official repository for "Unveiling the Potential of Text in High-Dimensional Time Series Forecasting" ***(Accepted by NeurIPS-24 TSALM Workshop)*** [[Paper]](https://arxiv.org/abs/2501.07048) <br>
 
 🌟 If you find this work helpful, please consider to star this repository and cite our research:
 ```
