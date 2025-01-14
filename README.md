@@ -6,9 +6,10 @@ This is the official repository for "Unveiling the Potential of Text in High-Dim
 🌟 If you find this work helpful, please consider to star this repository and cite our research:
 ```
 @inproceedings{xin2024textfusionhts,
-  author = {Zhou, Xin and Wang, Weiqing and Qu, Shilin and Zhiqiang, Zhang and Bergmeir, Christoph},
-  title = {Unveiling the Potential of Text in High-Dimensional Time Series Forecasting},
-  year = {2024},
+  author    = {Zhou, Xin and Wang, Weiqing and Qu, Shilin and Zhiqiang, Zhang and Bergmeir, Christoph},
+  title     = {Unveiling the Potential of Text in High-Dimensional Time Series Forecasting},
+  booktitle = {Proceedings of the NeurIPS 2024 Workshop on Time Series in the Age of Large Models (TSALM)},
+  year      = {2024}
 }
 ```
 
